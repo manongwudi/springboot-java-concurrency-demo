@@ -1,5 +1,5 @@
 spring:
   application:
-    name: springboot-concurrency-demo
+    name: concurrency-demo
 server:
-  port: 9091
+  port: 9090
